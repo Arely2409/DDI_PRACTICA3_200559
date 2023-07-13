@@ -4,7 +4,7 @@
 </p>
 
 <P align="center">
-  Arely Aguilar Farias
+  <h1>Arely Aguilar Farias</h1>
   <br>
   9° "A" IDGS
 </P>
