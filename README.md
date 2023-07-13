@@ -6,7 +6,7 @@
 <P>
   <h1 align="center">Arely Aguilar Farias</h1>
   <br>
-  9° "A" IDGS
+  <h3 align="center">9° "A" IDGS</h3>
 </P>
 
 
