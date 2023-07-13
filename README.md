@@ -1,10 +1,7 @@
 # DDI_TAREA-3_200559
 <p>
-<img src=https://github.com/Arely2409/DDI_TAREA-3_200559/assets/84819096/c26ca02c-a399-40b7-b73f-92512e3d8740 alt="Logo" width="50" height="50" align="left"> <img src=https://github.com/Arely2409/DDI_TAREA-3_200559/assets/84819096/706318fe-9554-48b2-bdc6-577b6c1694a4 alt="Logo" width="50" height="50" align="right"> 
+<img src=https://github.com/Arely2409/DDI_TAREA-3_200559/assets/84819096/4fbfaafb-4ab3-446c-9875-edd7b1bb0765 alt="Logo" width="50" height="50" align="left"> <img src=https://github.com/Arely2409/DDI_TAREA-3_200559/assets/84819096/d32249cc-2e50-4963-ad86-8ff7c8c37054 alt="Logo" width="50" height="50" align="right"> 
 </p>
-
-
-
 
 <br>
 Arely Aguilar Farias
