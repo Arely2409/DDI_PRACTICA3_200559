@@ -7,7 +7,7 @@
   <h1 align="center">UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ</h1>
   <h2 align="center">ARELY AGUILAR FARIAS</h2>
   <h3 align="center">Estilización de una pantalla que incluye tipografía, imágenes e implementación de efectos o animaciones</h3>
-  <h3 align="center">Fecha de entrega: 24/05/2023</h3>
+  <h3 align="center">Fecha de entrega: 24/Mayo/2023</h3>
 </P>
 
 
