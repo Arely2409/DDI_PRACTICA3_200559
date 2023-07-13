@@ -6,7 +6,6 @@
 <P>
   <h1 align="center">UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ</h1>
   <h2 align="center">Arely Aguilar Farias</h2>
-  <br>
   <h3 align="center">9° "A" IDG</h3>
   <h3 align="center"></h3>
   <h3 align="center">9° "A" IDGS</h3>
