@@ -7,6 +7,7 @@
   <h1 align="center">UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ</h1>
   <h2 align="center">ARELY AGUILAR FARIAS M-200559</h2>
   <h3 align="center">Estilización de una pantalla que incluye tipografía, imágenes e implementación de efectos o animaciones</h3>
+  <h3 align="center">Se creó una aplicación para WearOs la cual incluye tipografía, imágenes e implementación de efectos en el texto</h3>
   <h3 align="center">Fecha de entrega: 24/Mayo/2023</h3>
 </P>
 
